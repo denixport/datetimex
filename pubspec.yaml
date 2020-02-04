@@ -1,0 +1,11 @@
+name: datetimex
+description: Extension methods for DateTime and Duration
+version: 0.1.0-dev
+uploader: Denis Portnov <denixport@gmail.com>
+homepage: https://github.com/denixport/datetime_ext
+environment:
+  sdk: '>=2.6.0 <3.0.0'
+dependencies:
+  
+dev_dependencies:
+  test: '^1.3.0'
