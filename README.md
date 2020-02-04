@@ -3,10 +3,8 @@
 ![Pub](https://img.shields.io/pub/vpre/datetimex.svg)
 ![GitHub](https://img.shields.io/github/license/denixport/datetimex.svg)
 
-This package provides implementation of Universally Unique Identifier 
-([UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier)) for Dart, 
-and supports generation, parsing and formatting of UUIDs.
- 
+[TBD]
+
 Available extensions:
 * Extension on `num` that enables durational suffixes: `1.hour`, `1.minute` etc.
   Math and comparison is out of the box: `1.hour == 0.5.hour + 0.5.hour`
@@ -18,7 +16,7 @@ Available extensions:
 ## Getting Started
 
 ### Installation
-1. Add an entry in your `pubspec.yaml` for `uuid_type`
+1. Add an entry in your `pubspec.yaml` for `datetimex`
 ```yaml
 dependencies:
   datetimex: ^1.0.0
